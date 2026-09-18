@@ -1,0 +1,2 @@
+This is my first Git commit and push.
+I am learning Git and GitHub.
