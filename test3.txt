@@ -1,0 +1,18 @@
+Git and GitHub Practice
+
+I am learning Git step by step.
+Git is used for version control.
+GitHub is used to store and collaborate on Git repositories.
+
+Today I practiced:
+- git status
+- git add
+- git commit
+- git push
+- git pull
+- git clone
+
+I am also learning DevOps.
+My goal is to become a Cloud/DevOps Engineer.
+
+Practice makes progress!
